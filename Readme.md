@@ -5,6 +5,7 @@ Just copy the section and blocks and paste them into your theme.
 
 - 5 building blocks to build custom sections (text,heading,button,image,container)
 - Desktop and mobile specific styling options
+- 3 presets for instant sections (Image with text, multicolumn, hero banner)
 
 **DISCLAIMER**
 
